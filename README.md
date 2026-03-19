@@ -85,11 +85,10 @@ supabase/functions/
 - [ ] Waterfall / spectrum visualization
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7171157-499c-4159-bf5f-220775577a39" width="700"><br><br>
-  <img src="https://github.com/user-attachments/assets/6c624859-21d8-4c8e-abb1-341e29a86c1c" width="250">
-  <img src="https://github.com/user-attachments/assets/34f54fe9-cdff-4950-8673-c80688e479c5" width="250">
+  <img src="https://github.com/user-attachments/assets/fe4548e8-27d2-4ccd-a7ee-c2568fde8b4a" width="700"><br><br>
+  <img src="https://github.com/user-attachments/assets/e8755959-70cf-42c6-ac8f-c511f439cbdb" width="250">
+  <img src="https://github.com/user-attachments/assets/9ab43784-1065-4806-9604-5165b6496a13" width="250">
 </p>
-
 
 ## 👤 Authors
 
