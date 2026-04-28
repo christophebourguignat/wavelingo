@@ -16,6 +16,8 @@ const LANGUAGE_NAMES: Record<string, string> = {
   NL: "Dutch",
   SV: "Swedish",
   JA: "Japanese",
+  ZH: "Simplified Chinese (Mandarin, 简体中文)",
+  "ZH-TW": "Traditional Chinese (繁體中文)",
 };
 
 serve(async (req: Request) => {
