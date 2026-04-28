@@ -116,6 +116,8 @@ export const LANGUAGES = [
   { code: "NL", label: "Nederlands" },
   { code: "SV", label: "Svenska" },
   { code: "JA", label: "日本語" },
+  { code: "ZH", label: "简体中文" },
+  { code: "ZH-TW", label: "繁體中文" },
 ] as const;
 
 export type LanguageCode = (typeof LANGUAGES)[number]["code"];
